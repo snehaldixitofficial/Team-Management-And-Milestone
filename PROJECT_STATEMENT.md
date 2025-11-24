@@ -3,13 +3,12 @@
 ## Project Declaration
 
 ### Student Information
-- **Student Name**: [Your Name]
-- **Registration Number**: [Your Registration Number]
+- **Student Name**: Snehal Dixit
+- **Registration Number**: 25MAIP10072
 - **Course**: Introduction to Programming & Problem Solving
-- **Institution**: VIT University
-- **Academic Year**: 2024-2025
+- **Institution**: VIT BHOPAL University
+- **Academic Year**: 2025-2026
 - **Semester**: First Year, First Semester
-- **Submission Date**: [Current Date]
 
 ---
 
@@ -299,33 +298,3 @@ The project will be considered successful when it:
 - Project presentation and communication
 
 ---
-
-## Conclusion
-
-This project statement outlines the comprehensive development of a Team Management System that addresses real-world challenges in academic project management while demonstrating mastery of Python programming fundamentals. The project combines practical problem-solving with technical implementation to create a valuable tool for students while showcasing programming skills and software development practices.
-
-The successful completion of this project will demonstrate not only technical proficiency in Python programming but also the ability to analyze problems, design solutions, and implement complete software systems that provide real value to users in academic environments.
-
----
-
-## Approval and Acknowledgment
-
-### Student Declaration
-I hereby declare that this project statement accurately represents my intended work for the Team Management System project. I commit to implementing the system as described and meeting all specified requirements and quality standards.
-
-**Student Signature**: ________________________  
-**Date**: ________________________
-
-### Faculty Approval
-This project statement has been reviewed and approved for implementation as part of the Introduction to Programming & Problem Solving course requirements.
-
-**Faculty Signature**: ________________________  
-**Date**: ________________________  
-**Comments**: ________________________
-
----
-
-**Document Version**: 1.0  
-**Last Updated**: [Current Date]  
-**Document Status**: Final  
-**Review Date**: [Review Date]
