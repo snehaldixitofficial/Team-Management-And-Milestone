@@ -198,7 +198,3 @@ Vityarthi_project/
 - Clean, maintainable implementation
 - 8 meaningful modules/files
 - Comprehensive documentation
-
-## Created By
-College Student - Python Programming Course Project
-VIT University - Introduction to Programming & Problem Solving
