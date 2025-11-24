@@ -4,7 +4,7 @@
 
 ### Student Information
 - **Student Name**: Snehal Dixit
-- **Registration Number**: 25MAIP10072
+- **Registration Number**: 25MIP10072
 - **Course**: Introduction to Programming & Problem Solving
 - **Institution**: VIT BHOPAL University
 - **Academic Year**: 2025-2026
